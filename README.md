@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 修改说明<br>
 就这样那样，就完事了,代码注释写的很全，官网也有一些修改指引。
+上传说明<br/>
+尊重原作者，保护知识产权。
 
 
